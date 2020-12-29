@@ -1,4 +1,4 @@
-package io.github.lkevint.playercompass;
+package io.github.lkesvint.playercompass;
 import java.util.Map;
 
 import org.bukkit.entity.Player;
