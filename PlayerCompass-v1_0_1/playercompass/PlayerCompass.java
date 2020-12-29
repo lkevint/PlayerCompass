@@ -1,4 +1,4 @@
-package io.github.liukevint2001.playercompass;
+package io.github.lkevint.playercompass;
 
 import java.util.*;
 
